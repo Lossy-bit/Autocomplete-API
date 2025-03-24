@@ -1,4 +1,4 @@
-# Extracting Names from Autocomplete-API
+# Autocomplete-API_Extractor
 
 ## Project Overview
 This project explores an undocumented autocomplete API to extract all possible names from the system. The API exists in three versions: v1, v2, and v3. Each version was analyzed, and a solution was developed to handle the API's constraints efficiently.
@@ -18,7 +18,7 @@ This project explores an undocumented autocomplete API to extract all possible n
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd Extracting-Names-from-Autocomplete-API
+   cd Autocomplete-API_Extractor
    ```
 
 2. Open and run the notebooks:
