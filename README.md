@@ -44,7 +44,7 @@ Alternatively, you can directly access the output files without running the note
 - **Total requests made:** v1: 12,897; v2: 3,108; v3: 2,602
 - **Total names extracted:** v1: 18,632; v2: 13,730; v3: 12,517
 
-## For more info please go to the report.pdf
+## For more info please go to the "report.pdf" file in this repository
 
 ---
 Happy extracting!
